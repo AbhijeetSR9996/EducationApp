@@ -1,0 +1,17 @@
+export default {
+  headingoneColor: '#4c5dab',
+  headingtwoColor: '#344055',
+  headingthreeColor: '#a18ce5',
+  textColor: '#7d7d7d',
+  whiteBg: '#4c5dab',
+  inputColor: 'rgba(0,0,0,0.3)',
+  checkColor: '#4630eb',
+  buttonColor: '#809fff',
+  buttonTextColor: '#eee',
+  containerColor: '#353535',
+  containerTwoColor: 'rgba(255,255,255,0.9)',
+  idColor: 'rgba(255,255,255,0.5)',
+  black: '#000000',
+  white: '#ffffff',
+  grey: '#808080',
+};
